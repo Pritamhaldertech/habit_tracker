@@ -37,13 +37,13 @@ MAIN MENU
 ## Screenshots
 ## 📸 Screenshots
 ### Main Menu
-![Main Menu](https://raw.githubusercontent.com/Pritamhaldertech/habit_tracker/main/screenshots/cli_menu.png)
+<img width="795" height="443" alt="Screenshot 2026-05-03 at 11 26 07" src="https://github.com/user-attachments/assets/1f89044d-8251-41ac-ba06-f57427c7905d" />
 ### Analytics Dashboard
-![Analytics Dashboard](https://raw.githubusercontent.com/Pritamhaldertech/habit_tracker/main/screenshots/analytics_output.png)
+
 ### Unit Test Results
-![Pytest Results](https://raw.githubusercontent.com/Pritamhaldertech/habit_tracker/main/screenshots/pytest_results.png)
+
 ### UML Class Diagram
-![UML Diagram](https://raw.githubusercontent.com/Pritamhaldertech/habit_tracker/main/screenshots/uml_diagram.png)
+
 
 ## How to Use
 Create a Habit
