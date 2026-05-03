@@ -35,18 +35,21 @@ MAIN MENU
 7. Save & Exit
 ----------------------------------------
 ## Screenshots
-## 📸 Screenshots
+## Screenshots
+
 ### Main Menu
-<img width="795" height="443" alt="Screenshot 2026-05-03 at 11 26 07" src="https://github.com/user-attachments/assets/1f89044d-8251-41ac-ba06-f57427c7905d" />
+![Main Menu](screenshots/cli_menu.png)
+
 ### Analytics Dashboard
-<img width="1131" height="914" alt="Screenshot 2026-05-03 at 11 27 33" src="https://github.com/user-attachments/assets/650c3a5f-9a8d-41ea-a8e5-9b5ea18871e4" />
+![Analytics Dashboard](screenshots/analytics_output.png)
 
 ### Unit Test Results
-<img width="922" height="627" alt="Screenshot 2026-05-03 at 11 28 39" src="https://github.com/user-attachments/assets/ba66b27e-b36d-4568-bd79-f5f233baedcb" />
-
+![Unit Test Results](screenshots/pytest_results.png)
 
 ### UML Class Diagram
-<img width="1115" height="564" alt="Screenshot 2026-05-03 at 10 36 24" src="https://github.com/user-attachments/assets/4d150a97-53e5-4620-bc86-52d88ba8b219" />
+![UML Diagram](screenshots/uml_diagram.png)
+### Unit Test Results
+<img width="922" height="627" alt="Screenshot 2026-05-03 at 11 28 39" src="https://github.com/user-attachments/assets/ba66b27e-b36d-4568-bd79-f5f233baedcb" />
 
 
 ## How to Use
