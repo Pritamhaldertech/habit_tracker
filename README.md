@@ -35,22 +35,20 @@ MAIN MENU
 7. Save & Exit
 ----------------------------------------
 ## Screenshots
-## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/cli_menu.png)
+<img width="795" height="443" alt="cli_menu" src="https://github.com/user-attachments/assets/c888e06c-8138-4a61-9175-5288f6c688c7" />
+
 
 ### Analytics Dashboard
-![Analytics Dashboard](screenshots/analytics_output.png)
+<img width="1131" height="914" alt="analytics_output" src="https://github.com/user-attachments/assets/94dc260f-ef40-4af2-838f-d2bc588cabfc" />
+
 
 ### Unit Test Results
-![Unit Test Results](screenshots/pytest_results.png)
+<img width="922" height="627" alt="pytest_results" src="https://github.com/user-attachments/assets/08449ab2-df60-450a-aad5-17b0eb2cc978" />
 
-### UML Class Diagram
-![UML Diagram](screenshots/uml_diagram.png)
-### Unit Test Results
-<img width="922" height="627" alt="Screenshot 2026-05-03 at 11 28 39" src="https://github.com/user-attachments/assets/ba66b27e-b36d-4568-bd79-f5f233baedcb" />
-
+### class diagram
+<img width="1115" height="564" alt="uml_diagram" src="https://github.com/user-attachments/assets/c1e2c7d0-e307-4e61-9a4b-f2721016f2ae" />
 
 ## How to Use
 Create a Habit
