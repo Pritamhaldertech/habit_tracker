@@ -1,9 +1,7 @@
 # Habit Tracker App
-
 A Python-based habit tracking application with OOP design and functional analytics.
 
 ## Features
-
 - Create daily or weekly habits
 - Check off completions
 - Automatic streak calculation (respects periodicity)
@@ -37,13 +35,13 @@ MAIN MENU
 7. Save & Exit
 ----------------------------------------
 ## Screenshots
-Main menu:
+###Main menu:
 <img width="795" height="443" alt="Screenshot 2026-05-03 at 11 26 07" src="https://github.com/user-attachments/assets/a4ff449d-6d52-490c-8423-09d7ed314b29"/>
-Analytics Dashboard:
+###Analytics Dashboard:
 <img width="1131" height="914" alt="Screenshot 2026-05-03 at 11 27 33" src="https://github.com/user-attachments/assets/2fa9f8ca-2f0f-4a73-96d8-59821cd06b78"/>
-Unit Test results:
+###Unit Test results:
 <img width="922" height="627" alt="Screenshot 2026-05-03 at 11 28 39" src="https://github.com/user-attachments/assets/a59e229c-5013-4239-8cf7-3ff97d74a0cc"/>
-UML class diagram:
+###UML class diagram:
 <img width="1115" height="564" alt="Screenshot 2026-05-03 at 10 36 24" src="https://github.com/user-attachments/assets/654b4c6f-2e1c-4c34-b222-f537f9b5c430"/>
 
 ## How to Use
